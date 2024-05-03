@@ -1,0 +1,91 @@
+
+.container-fluid{
+	border: #000;
+	height: 50px;
+	background-color:#f0e8e4;
+	border-radius:10px;
+	padding: 5px 0px 5px 10px;
+}
+.logo{
+	color: #000;
+	margin-left: 10px;
+	text-decoration:none;
+}
+.nav-item a{
+	text-decoration: none;
+	color: #000;
+	margin-left: 20px;
+}
+.container-fluid2{
+	border: #000;
+	margin-top:5px;
+	background-color:#f0e8e4 ;
+}
+h3{
+	margin-top: 10px;
+}
+.container-fluid3{
+	margin-top: 30px;
+}
+.card{
+	display:inline-block;
+	margin-left: 30px;
+	height: 200px;
+}
+
+/*<---------------------contact us----------------------->*/
+body{
+	background-color: #f0e8e4;
+}
+.forms{
+	border: 2px solid #fff;
+}
+.first_col{
+	background-color:#f0e8e4;
+	height: 550px;
+	width: 550px;
+	border-radius:20px;
+	display: inline-block;
+}
+.image{
+	width: 550px;
+	height: 550px;
+	border-radius:20px;
+	display: inline-block;
+}
+.container1{
+     margin-left:65px;
+	height: 200px;
+}
+.card-body{
+	height: 150px;
+}
+/*<----------------------Products--------------------->*/
+.card4{
+	border: 2px solid #FFF;
+     display:inline-block;
+     margin: 10px 0px 0px 70px;
+     height: 300px;
+}
+.card-body1{
+	text-align: center;
+	height: 150px;
+}
+/*.container9{
+	display: flex;
+}*/
+.card5{
+	border: 2px solid #FFF;
+     display:inline-block;
+     margin: 10px 0px 0px 70px;
+     height: 300px;
+}
+
+h4{
+	margin-top: 5px;
+}
+
+
+
+
+
